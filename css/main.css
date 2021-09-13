@@ -1119,7 +1119,8 @@ header .logo a {
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
+	color: white
+	/*background: url("../images/logo.png") no-repeat center;*/
 	background-size: 92px 15px;
 }
 
@@ -2597,3 +2598,21 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+#skills ul {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 800px;
+}
+
+#skills li {
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: #374054;
+    background: #e4e4ea;
+    list-style: none;
+    cursor: default;
+    font-size: 1.2em;
+}
