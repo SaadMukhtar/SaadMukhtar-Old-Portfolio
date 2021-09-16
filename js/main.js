@@ -264,6 +264,10 @@
 
 	});
 
+	function myResume () {
+		location.href("https://github.com/SaadMukhtar/SaadMukhtar.github.io/blob/master/static/Saad_Fall2021.pdf")
+	}
+
 
  	/*----------------------------------------------------- */
   	/* Back to top
