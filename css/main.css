@@ -2616,3 +2616,9 @@ footer .copyright span:last-child::after {
     cursor: default;
     font-size: 1.2em;
 }
+
+.myicon {
+	height: 2em;
+	width: 15em;
+	margin: 20px;
+}
